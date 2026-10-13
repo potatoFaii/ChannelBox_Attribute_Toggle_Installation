@@ -6,6 +6,7 @@
 ---
 
 ## Overview
+<img width="250" height="247" alt="channelBox_pic" src="https://github.com/user-attachments/assets/1f0de6bc-732a-435d-a05d-d47d24e42a04" />
 
 **Channel Control Editor** is a lightweight rigging utility designed to help riggers quickly **show or hide standard transform attributes in Maya's Channel Box** across multiple selected controllers.
 
